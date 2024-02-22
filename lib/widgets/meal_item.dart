@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:flutter_application_1/models/meal.dart';
 import 'package:flutter_application_1/widgets/meal_item_trait.dart';
 import 'package:transparent_image/transparent_image.dart';
